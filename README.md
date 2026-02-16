@@ -85,16 +85,15 @@ I'm Shubham - Engineering Manager by profession and Distributed Systems Architec
 ## 📈 What I Do
 
 **Leadership & Strategy**
-- Lead high-performing engineering teams (5-10 engineers)
-- Career growth frameworks & mentorship (50% retention improvement)
+- Lead high-performing engineering teams
+- Career growth frameworks & mentorship
 - Agile execution (95% on-time releases)
 - Cross-functional collaboration (Product, Data Science, UX)
 
 **Architecture & Systems**
-- Design distributed systems (Hub-and-Spoke, Event-Driven, CQRS)
-- Semantic search & RAG pipelines (15% → 80%+ relevancy)
-- Multi-tenant platforms (1,000+ enterprise tenants)
-- High-throughput ingestion (1M+ documents/day)
+- Design distributed systems (Hub-and-Spoke, Orchestration, Event-Driven, CQRS)
+- Semantic search & AI driven RAG pipelines
+- High-throughput ingestion capable architecture
 - Resilience patterns (Circuit breakers, Oplog, Rate limiting)
 
 ---
