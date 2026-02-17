@@ -147,7 +147,7 @@ graph TB
 
 **🧠 Intelligence** - AI Gateway with multi-provider orchestration (Gemini, OpenAI), FlashRank reranking, query intelligence, and Redis-backed rate limiting
 
-**⚡ Ingestion** - Two-pass content enrichment (Kafka + Elasticsearch + PostgreSQL) with persistent Oplog pattern handling 1M+ documents/day
+**⚡ Ingestion** - Two-pass content enrichment (Kafka + Elasticsearch + PostgreSQL) with persistent Oplog pattern for traceability
 
 **💾 Storage** - Multi-tenant S3-compatible gRPC service with dynamic provisioning and granular ACL policies
 
