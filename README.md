@@ -82,22 +82,6 @@ I'm Shubham - Engineering Manager by profession and Distributed Systems Architec
 
 ---
 
-## 📈 What I Do
-
-**Leadership & Strategy**
-- Lead high-performing engineering teams
-- Career growth frameworks & mentorship
-- Agile execution (95% on-time releases)
-- Cross-functional collaboration (Product, Data Science, UX)
-
-**Architecture & Systems**
-- Design distributed systems (Hub-and-Spoke, Orchestration, Event-Driven, CQRS)
-- Semantic search & AI driven RAG pipelines
-- High-throughput ingestion capable architecture
-- Resilience patterns (Circuit breakers, Oplog, Rate limiting)
-
----
-
 ## 💡 OctaneBrew Platform
 
 **Enterprise-grade distributed infrastructure** abstracting AI orchestration, content enrichment, and multi-tenant storage into centralized services.
@@ -178,43 +162,3 @@ graph TB
 **📝 Conduit** - Multi-tenant content network with database-per-tenant isolation, semantic search, offline first responsive design, integrated AI powered summary, semantic search and 10 dynamic themes
 
 **🎥 OpenStream** - Real-time video platform with RTMP ingestion, HLS delivery, WebSocket chat, and sub-second latency
-
----
-
-## 📈 Impact Metrics
-
-**System Performance:**
-- 99.99% uptime across all services
-- 1M+ documents/day throughput
-- 80%+ search relevancy (from 15% via AI Powered RAG)
-- 50% MTTR reduction
-
-**Team Leadership:**
-- 50% YoY retention improvement
-- 95% on-time release cadence
-- 50%+ engineering velocity gains
-- 25% support escalation reduction
-
-**Scale:**
-- 1,000+ enterprise tenants
-- 30+ Enterprise search connector integrations (Google Drive, SharePoint, ServiceNow etc)
-
----
-
-## 💼 Experience Highlights
-
-- **Architected enterprise search & RAG ingestion pipelines** for 1,000+ tenants, driving search relevancy from 15% to 80%+ through zero-downtime migration from keyword to AI-powered retrieval augmented generation based search
-
-- **Led distributed ingestion platform design** (Kafka + S3 + microservices) processing more than 1M+ documents/day with fault-tolerant retries, persistent Oplog patterns, and distributed rate limiting for enterprise-scale content enrichment
-
-- **Delivered AI-powered conversational search & LLM-based summarization** with built-in guardrails, improving answer precision by 60% and reducing support escalations by 25% through semantic understanding and query intelligence
-
-- **Scaled enterprise search to 30+ connectors** (Google Drive, SharePoint, ServiceNow, Box) with permission-aware unified search, ACL enforcement, and real-time synchronization for cross-platform content discovery
-
-- **Built and led high-performing engineering teams** (5-10 engineers) with career growth frameworks and 1:1 mentorship programs, achieving 50% YoY retention improvement and 95% on-time release cadence
-
-- **Established observability and CI/CD automation** reducing MTTR by 50% and doubling deployment frequency through Prometheus/Grafana monitoring, distributed tracing, and automated testing pipelines
-
-- **Architected cloud-native SaaS platforms** with microservices patterns, Agile execution (25% timeline reduction), and optimized distributed systems achieving 50%+ server response time improvements
-
-
